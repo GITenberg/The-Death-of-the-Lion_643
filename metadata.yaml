@@ -1,0 +1,29 @@
+_repo: The-Death-of-the-Lion_643
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: Written in 1895, The Death of the Lion tells the story of an author who
+  undertakes to write the obituary of a great editor who has just passed away. Henry
+  James' deep psychological probing and strong descriptions make this book a classic.
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Authorship -- Fiction'
+- GITenberg
+title: The Death of the Lion
+url: http://www.gutenberg.org/ebooks/643
