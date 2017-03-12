@@ -1,5 +1,8 @@
 _repo: The-Death-of-the-Lion_643
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -11,6 +14,8 @@ creator:
 description: Written in 1895, The Death of the Lion tells the story of an author who
   undertakes to write the obituary of a great editor who has just passed away. Henry
   James' deep psychological probing and strong descriptions make this book a classic.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/643#The-Death-of-the-Lion
 gutenberg_issued: '1996-09-01'
 gutenberg_type: Text
 identifiers:
